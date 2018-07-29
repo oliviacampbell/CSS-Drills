@@ -1,0 +1,28 @@
+body {
+    font-family: 'Wire One', sans-serif;
+    font-family: 'Fenix', serif;
+    background-color: rgb(235, 235, 235);
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+
+a {
+   text-decoration: none;
+   color: black;
+}
+
+.boxes {
+    display: inline-block;
+    margin: 1em;
+    padding: 2em;
+    border: solid;
+    border-radius: 0.3em;
+}
+
+a:hover {
+    font-weight: bold;
+    color: burlywood
+}
