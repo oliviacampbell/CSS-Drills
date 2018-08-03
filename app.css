@@ -95,21 +95,81 @@ a:hover {
 }
 
 #show1 {
-    color: lightpink;
+    color: #0B132B;
 }
 
 #show2 {
-    color: lightsalmon;
+    color: #1C2541;
 }
 
 #show3 {
-    color: lightseagreen;
+    color: #3A506B;
 }
 
 #show4 {
-    color: lightskyblue;
+    color: #5BC0BE;
 }
 
 #show5 {
-    color: lightslategrey;
+    color: #8CABBE;
+}
+
+#Friend1 {
+    color: rgb(57, 26, 230);
+}
+
+#Friend2 {
+    color: #C4CAD0;
+}
+
+#Friend3 {
+    color: #878C8F;
+}
+
+#Friend4 {
+    color: #A4969B;
+}
+
+#Friend5 {
+    color: #655560;
+}
+
+#Place1 {
+    color: #381D2A;
+}
+
+#Place2 {
+    color: #3E6990;
+}
+
+#Place3 {
+    color: #AABD8C;
+}
+
+#Place4 {
+    color: #F39B6D;
+}
+
+#Place5 {
+    color: #BACDB0;
+}
+
+#Food1 {
+    color: #C14953;
+}
+
+#Food2 {
+    color: #70566D;
+}
+
+#Food3 {
+    color: #764248;
+}
+
+#Food4 {
+    color: #785589;
+}
+
+#Food5 {
+    color: #558B6E;
 }
