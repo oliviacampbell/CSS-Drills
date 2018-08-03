@@ -8,6 +8,27 @@ h2, p, .readme-wrapper {
     text-align: center;
 }
 
+h2 {
+    display: inline-block;
+}
+
+.image {
+    width: 2.5em;
+    height: 2.5em;
+    background-color: cadetblue;
+    display: inline-block;
+    position: relative;
+    margin: 0.5em;
+    top: 1.2em;
+    border-radius: 0.5em;
+}
+
+.title-center {
+    text-align: center;
+    /* display: inline-block; */
+    position: relative;
+    margin: auto;
+}
 
 a {
    text-decoration: none;
@@ -15,14 +36,80 @@ a {
 }
 
 .boxes {
-    display: inline-block;
+    display: block;
     margin: 1em;
     padding: 2em;
     border: solid;
-    border-radius: 0.3em;
+    border-radius: 2em;
+    width: 25%;
 }
 
 a:hover {
     font-weight: bold;
     color: burlywood
+}
+
+.p-text {
+    font-weight: bold;
+    color: rgb(27, 28, 129);
+}
+
+#boxOne {
+    background-color: #D9DBF1;
+    position: relative;
+}
+
+#boxTwo {
+    background-color: #D0CDD7;
+}
+
+#boxThree {
+    background-color: #ACB0BD;
+}
+
+#boxFour {
+    background-color: #416165;
+    display: inline-block
+}
+
+.list-box {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 2em;
+    width: 25%;
+    margin: 1em;
+}
+
+.top-text, 
+.btm-text {
+    margin-left: 1.25em;
+}
+
+.top-text {
+    color: midnightblue;
+}
+
+.btm-text {
+    color:lightcoral;
+}
+
+#show1 {
+    color: lightpink;
+}
+
+#show2 {
+    color: lightsalmon;
+}
+
+#show3 {
+    color: lightseagreen;
+}
+
+#show4 {
+    color: lightskyblue;
+}
+
+#show5 {
+    color: lightslategrey;
 }
